@@ -1,0 +1,1 @@
+{"id":"0301601361","box_attribute":"","width":1.0894176959991456,"height":-7.482361316680908,"len":-1.490782380104065,"rotation_x":0.0,"rotation_y":180.0,"rotation_z":0.0,"scale_x":2.0,"scale_y":1.0,"scale_z":1.0,"index":0,"layer":0,"materialsType":"","type":"","Cube":{"instanceID":-1200888}}&

@@ -1,0 +1,151 @@
+<page>
+  <cp_ProducePage id="cp_ProducePage">
+    <item value="0" />
+  </cp_ProducePage>
+  <cp_lenth id="cp_lenth">
+    <item value="0" />
+  </cp_lenth>
+  <cp_width id="cp_width">
+    <item value="0" />
+  </cp_width>
+  <cp_heigth id="cp_heigth">
+    <item value="0" />
+  </cp_heigth>
+  <cp_weight id="cp_weight">
+    <item value="0" />
+  </cp_weight>
+  <cp_distance id="cp_distance">
+    <item value="0" />
+  </cp_distance>
+  <cp_label id="cp_label">
+    <item value="0" />
+    <item value="1" />
+    <item value="2" />
+  </cp_label>
+  <cb_BlackPage id="cb_BlackPage">
+    <item value="0" />
+  </cb_BlackPage>
+  <cb_lenth id="cb_lenth">
+    <item value="0" />
+  </cb_lenth>
+  <cb_width id="cb_width">
+    <item value="0" />
+  </cb_width>
+  <cb_heigth id="cb_heigth">
+    <item value="0" />
+  </cb_heigth>
+  <cb_weight id="cb_weight">
+    <item value="0" />
+  </cb_weight>
+  <cs_SocketPage id="cs_SocketPage">
+    <item value="0" />
+  </cs_SocketPage>
+  <cs_ip id="cs_ip">
+    <item value="127.0.0.1" />
+  </cs_ip>
+  <cs_port id="cs_port">
+    <item value="9999" />
+  </cs_port>
+  <cs_kind id="cs_kind">
+    <item value="type1" />
+    <item value="type2" />
+  </cs_kind>
+  <savePath id="s2">
+    <item value="D:\GZRobot\Setting\" />
+  </savePath>
+  <box_type id="box_type">
+    <item value="999" />
+    <item value="bbb" />
+    <item value="ccc" />
+  </box_type>
+  <baseboard_data_all>
+    <baseboard_data>
+      <baseboard_id>1106</baseboard_id>
+      <width>11</width>
+      <len>22</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>123</baseboard_id>
+      <width>6</width>
+      <len>9</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>501</baseboard_id>
+      <width>100</width>
+      <len>500</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>502</baseboard_id>
+      <width>200</width>
+      <len>500</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>503</baseboard_id>
+      <width>300</width>
+      <len>500</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>808</baseboard_id>
+      <width>808</width>
+      <len>808</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>556</baseboard_id>
+      <width>60</width>
+      <len>556</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>299</baseboard_id>
+      <width>200</width>
+      <len>200</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>234</baseboard_id>
+      <width>200</width>
+      <len>200</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>1231</baseboard_id>
+      <width>556</width>
+      <len>556</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>2331</baseboard_id>
+      <width>123</width>
+      <len>123</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>45</baseboard_id>
+      <width>45</width>
+      <len>45</len>
+    </baseboard_data>
+    <baseboard_data>
+      <baseboard_id>321</baseboard_id>
+      <width>32</width>
+      <len>32</len>
+    </baseboard_data>
+  </baseboard_data_all>
+  <box_data_all>
+    <box_data>
+      <box_id>999</box_id>
+      <width>111</width>
+      <height>333</height>
+      <len>222</len>
+      <materials_type>wl_jzx_001</materials_type>
+    </box_data>
+    <box_data>
+      <box_id>404</box_id>
+      <width>111</width>
+      <height>3333</height>
+      <len>2222</len>
+      <materials_type>wl_jzx_002</materials_type>
+    </box_data>
+    <box_data>
+      <box_id>315</box_id>
+      <width>3</width>
+      <height>77</height>
+      <len>66</len>
+      <materials_type>wl_jzx_003</materials_type>
+    </box_data>
+  </box_data_all>
+</page>

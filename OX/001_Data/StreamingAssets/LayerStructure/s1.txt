@@ -1,0 +1,1 @@
+{"id":"5221087526","box_attribute":"","width":1.027785062789917,"height":-7.373471736907959,"len":-1.399999976158142,"rotation_x":0.0,"rotation_y":270.0,"rotation_z":0.0,"scale_x":2.0,"scale_y":1.0,"scale_z":1.0,"index":0,"layer":0,"materialsType":"","type":"","Cube":{"m_FileID":-4066,"m_PathID":0}}&
